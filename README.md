@@ -18,4 +18,4 @@ Navigate to http://localhost:3000
 
 MIT
 
-**Free Software, Hell Yeah!**
+__Free Software, Hell Yeah!__
